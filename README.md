@@ -1,13 +1,13 @@
 
 
-<h1 align="center">Kabisha Mir</h1>
+
 <p align="center">AI • Technology • Developer</p>
 
 
 
 ![pexels-agk42-2599244](https://github.com/user-attachments/assets/8afa1401-f34a-40d7-8bbc-79e2a2eefa72)
 
-
+<h1 align="center">Kabisha Mir</h1>
 
 <div align="center">
   <h3> Hello There <h3>
