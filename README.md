@@ -9,7 +9,7 @@
 
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
-* 🔭 I’m currently working on **Developing logic-based projects using C++ and Python**
+* 🔭 I’m currently learning to work on **Developing logic-based projects using C++ and Python**
 * 👯I’m looking to collaborate on *Open-source Python scripts and AI modules
 * 🖼️ Image Classification | 💬 NLP | 🎮 Reinforcement Learning
 * ✨ Learning today, building AI tomorrow
