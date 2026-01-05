@@ -1,10 +1,16 @@
 
+
+<h1 align="center">Kabisha Mir</h1>
+<p align="center">AI • Technology • Developer</p>
+
+
+
 ![pexels-agk42-2599244](https://github.com/user-attachments/assets/8afa1401-f34a-40d7-8bbc-79e2a2eefa72)
 
 
 
 <div align="center">
-  <h1>Hello there,I'm kabisha<h1>
+  <h3> Hello There <h3>
   <h3> 💻 C++ & Python Learner | Learning AI and ML </h3>
 </div>
 
