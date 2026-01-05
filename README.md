@@ -13,7 +13,6 @@
 * 🤝 I’m looking for help with **Deepening my understanding of AI and Automation**
 * 🌱 I’m currently learning **The intersection of AI and Data Structures in C++**
 * 💬 Ask me about **Programming, Python, or AI technology**
-* ⚡ Fun fact **I enjoy turning complex problems into clean, efficient code!**
 
 ---
 
