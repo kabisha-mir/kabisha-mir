@@ -57,8 +57,9 @@
 </p>
 
 <p align="center">
-<src="https://github-readme-streak-stats.herokuapp.com/?user=kabisha-mir&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kabisha-mir&show_icons=true&theme=radical" />
 </p>
+
 
 ---
 
@@ -66,4 +67,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=It%20always%20seems%20impossible%20until%20it's%20done.&author=Eleanor%20Roosevelt" />
 </div>
 
+---
+
+<p align="center">✨ Thanks for visiting my profile! Let's build something amazing together. ✨</p>
 
