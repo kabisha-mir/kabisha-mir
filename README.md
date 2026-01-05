@@ -1,6 +1,7 @@
 
+![pexels-agk42-2599244](https://github.com/user-attachments/assets/8afa1401-f34a-40d7-8bbc-79e2a2eefa72)
 
-![metaverse-virtual-love-collage](https://github.com/user-attachments/assets/5ae74c2a-bb0d-471e-b1a3-af40c602d505)
+
 
 <div align="center">
   <h1>Hello there,I'm kabisha<h1>
