@@ -19,7 +19,7 @@
 
 ### 🌐 Connect with Me:
 
-
+<div align="center">
  
  <a href="https://www.instagram.com/y.ur_k?igsh=YWE1ejZkeTgya2pu" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
