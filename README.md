@@ -43,12 +43,12 @@
 ### 📊 GitHub Analysis:
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chatgpt&theme=tokyonight" height="150" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chatgpt&theme=tokyonight" height="150" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kabisha-mir&theme=tokyonight" height="150" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kabisha-mir&theme=tokyonight" height="150" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chatgpt&theme=tokyonight&hide_border=true" alt="streak stats" />
+<src="https://github-readme-streak-stats.herokuapp.com/?user=kabisha-mir&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 ---
@@ -57,10 +57,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=It%20always%20seems%20impossible%20until%20it's%20done.&author=Eleanor%20Roosevelt" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=100&section=footer" />
-</div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=chatgpt&color=blue&style=for-the-badge" alt="Profile Views" />
-</div>
