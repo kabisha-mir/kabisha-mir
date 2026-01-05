@@ -1,6 +1,6 @@
 
-![pexels-pavel-danilyuk-8294603](https://github.com/user-attachments/assets/8c83eb72-c453-4cff-9ac8-b21189ee71c2)
 
+![metaverse-virtual-love-collage](https://github.com/user-attachments/assets/5ae74c2a-bb0d-471e-b1a3-af40c602d505)
 
 <div align="center">
   <h1>Hello there,I'm kabisha<h1>
