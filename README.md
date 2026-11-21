@@ -27,7 +27,7 @@
 ---
 
 ### 🌐 Connect with Me:
-
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kabisha-mir-03b6853a3)
 <div align="center">
  
  <a href="https://www.instagram.com/y.ur_k?igsh=YWE1ejZkeTgya2pu" target="_blank">
